@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 4abfe0f5f89f04946b2c85673f9e8cd8
+timeCreated: 1439683714
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RussiaAstronaut_0
+    21300002: RussiaAstronaut_1
+    21300004: RussiaAstronaut_2
+    21300006: RussiaAstronaut_3
+    21300008: RussiaAstronaut_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RussiaAstronaut_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 468
+        width: 447
+        height: 526
+      alignment: 9
+      pivot: {x: .628553808, y: .540578067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RussiaAstronaut_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 620
+        width: 219
+        height: 366
+      alignment: 9
+      pivot: {x: .410037607, y: .769150376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RussiaAstronaut_2
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 656
+        width: 236
+        height: 282
+      alignment: 9
+      pivot: {x: .305208623, y: .76781404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RussiaAstronaut_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 125
+        width: 229
+        height: 314
+      alignment: 9
+      pivot: {x: .38528809, y: .818951964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RussiaAstronaut_4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 138
+        width: 219
+        height: 311
+      alignment: 9
+      pivot: {x: .432527989, y: .816749573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

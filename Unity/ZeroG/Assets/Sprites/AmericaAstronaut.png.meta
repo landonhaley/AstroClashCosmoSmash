@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 3023101a9b2f52f41b660c3119b16918
+timeCreated: 1439683238
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AmericaAstronaut_0
+    21300002: AmericaAstronaut_1
+    21300004: AmericaAstronaut_2
+    21300006: AmericaAstronaut_3
+    21300008: AmericaAstronaut_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AmericaAstronaut_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 441
+        width: 478
+        height: 583
+      alignment: 9
+      pivot: {x: .613346994, y: .502816319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AmericaAstronaut_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 606
+        width: 223
+        height: 385
+      alignment: 9
+      pivot: {x: .426376045, y: .798511863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AmericaAstronaut_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 623
+        width: 260
+        height: 341
+      alignment: 9
+      pivot: {x: .361076951, y: .735920727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AmericaAstronaut_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 235
+        height: 334
+      alignment: 9
+      pivot: {x: .465067774, y: .814599514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AmericaAstronaut_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 135
+        width: 248
+        height: 332
+      alignment: 9
+      pivot: {x: .380836248, y: .79176873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

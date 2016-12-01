@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Framework/ControlCenter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Framework/ControlCenter.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/Framework/Singleton.cs" Line="1" Column="1" />
+      <File FileName="../../../../../Documents/AllSummer16/Processes/UnityTutorial/UnityTutorial/Assets/button.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Framework/InputControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Framework/PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FundamentalGameObjects/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FundamentalGameObjects/GoalClass.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerData.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TimerClass.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DisplayFinalScores.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GUI/TeamSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GUI/QuitButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GUI/StartButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GUI/TeamSelectButton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

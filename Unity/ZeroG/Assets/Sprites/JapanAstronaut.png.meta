@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 8f517675528ead6429d791231479c8b6
+timeCreated: 1439683499
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JapanAstronaut_0
+    21300002: JapanAstronaut_1
+    21300004: JapanAstronaut_2
+    21300006: JapanAstronaut_3
+    21300008: JapanAstronaut_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: JapanAstronaut_0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 488
+        width: 414
+        height: 498
+      alignment: 9
+      pivot: {x: .674492419, y: .519781172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JapanAstronaut_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 618
+        width: 220
+        height: 346
+      alignment: 9
+      pivot: {x: .425372064, y: .85588491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JapanAstronaut_2
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 616
+        width: 261
+        height: 340
+      alignment: 9
+      pivot: {x: .342737883, y: .804218769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JapanAstronaut_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 286
+        height: 370
+      alignment: 9
+      pivot: {x: .385187745, y: .766240537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JapanAstronaut_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 112
+        width: 294
+        height: 329
+      alignment: 9
+      pivot: {x: .44415614, y: .82437104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
